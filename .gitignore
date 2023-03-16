@@ -9,5 +9,8 @@ dist
 dist-ssr
 *.local
 
-# Mac
+# mac
 .DS_Store
+
+# config
+.idea/
